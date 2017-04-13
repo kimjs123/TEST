@@ -6,5 +6,6 @@ public class test{
 		System.out.println("Programming");
 		System.out.println("semyeong");
 		System.out.println("computer");
+//작성자 : 김준석
 	}
 }
