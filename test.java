@@ -1,4 +1,4 @@
-public class test{
+﻿public class test{
 	public static void main (String args[]){
 		System.out.println("Hello");
 		System.out.println("World");
@@ -6,5 +6,6 @@ public class test{
 		System.out.println("Programming");
 		System.out.println("semyeong");
 		System.out.println("computer");
+//작성자 : 고현서
 	}
 }
