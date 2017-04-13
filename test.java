@@ -7,5 +7,6 @@
 		System.out.println("semyeong");
 		System.out.println("computer");
 //작성자 : 고현서
+//작성자 : 김준석
 	}
 }
